@@ -38,6 +38,8 @@ Explain what these tests test and why
 
 Give an example
 
+Chaintool test
+
 Deployment
 
 Add additional notes about how to deploy this on a live system
